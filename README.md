@@ -12,7 +12,7 @@ const flatArray = flatArr(nestedArray);
 
 console.log(flatArray); // Output: [1, 2, 3, 4, 5]
 
-Here is how you can call flatObj function.
+**Here is how you can call flatObj function.**
 
 const flatObject = flatObj(nestedObject);
 
