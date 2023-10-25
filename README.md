@@ -4,7 +4,5 @@ These functions, flatArr and flatObj, are designed to help you transform deeply 
 flatArr(arr) function takes an array as its input and returns a new flat array.
 It can handle arrays with varying levels of nesting.
 const nestedArray = [1, [2, [3, 4]], [5]];
-
 const flatArray = flatArr(nestedArray);
-console.log(flatArray);
-// Output: [1, 2, 3, 4, 5]
+console.log(flatArray); // Output: [1, 2, 3, 4, 5]
