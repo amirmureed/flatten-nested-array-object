@@ -1,3 +1,4 @@
+**How to Flatten Nested Array or Object in JavaScript**
 **Recursive Flattening Functions for Arrays and Objects**
 This repository contains JavaScript functions for recursively flattening nested arrays and objects.
 These functions, flatArr and flatObj, are designed to help you transform deeply nested structures into a flat format.
